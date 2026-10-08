@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background & Surface -->
+    <color name="bg_app_slate">#F8FAFC</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="stroke_border">#E2E8F0</color>
+    <color name="divider_line">#F1F5F9</color>
+
+    <!-- Brand Palette (Deep Navy & Ocean Slate) -->
+    <color name="brand_navy_primary">#0F172A</color>
+    <color name="brand_blue_accent">#2563EB</color>
+    <color name="brand_blue_light">#EFF6FF</color>
+
+    <!-- Status Badges Colors -->
+    <color name="status_pending_bg">#FEF3C7</color>
+    <color name="status_pending_text">#B45309</color>
+
+    <color name="status_delivery_bg">#E0F2FE</color>
+    <color name="status_delivery_text">#0369A1</color>
+
+    <color name="status_delivered_bg">#DCFCE7</color>
+    <color name="status_delivered_text">#15803D</color>
+
+    <!-- Typography -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_muted">#94A3B8</color>
+</resources>
